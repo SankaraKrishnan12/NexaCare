@@ -1,0 +1,50 @@
+/* src/pages/Admin/EditDoctors.css */
+
+.edit-doctors-container {
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .doctor-form {
+    margin-bottom: 20px;
+  }
+  
+  .doctor-form input {
+    padding: 8px;
+    font-size: 1rem;
+    margin: 10px;
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,65 @@
+/* src/pages/PatientHomepage.css */
+.patient-homepage {
+    margin: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .patient-header {
+    box-shadow: 0px 0px 26px 1px rgba(93,224,168,0.75);
+-webkit-box-shadow: 0px 0px 26px 1px rgba(93,224,168,0.75);
+-moz-box-shadow: 0px 0px 26px 1px rgba(93,224,168,0.75);
+    background-color: #aae8b3;
+    color: rgb(0, 0, 0);
+    padding: 5px 0;
+  }
+  
+  .profile-section, .appointments-section, .appointment-booking-section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
+  .appointments-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .appointments-table th, .appointments-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .appointments-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .appointment-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .appointment-button:hover {
+    background-color: #218838;
+  }
+  
+  .patient-footer {
+    margin-top: 50px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
+  

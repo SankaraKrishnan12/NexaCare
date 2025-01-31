@@ -1,0 +1,27 @@
+/* src/pages/Admin/EditAppointments.css */
+
+.edit-appointments-container {
+    padding: 40px;
+    background-color: #f4f4f4;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    margin: 5px 0;
+  }
+  
+  table {
+    margin-left: 0%;
+  }

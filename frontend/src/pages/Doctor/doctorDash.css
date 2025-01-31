@@ -1,0 +1,31 @@
+.doctor-dashboard-container {
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+  }
+  .appointments-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  .appointments-table th, .appointments-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  .appointments-table th {
+    background-color: #007bff;
+    color: #fff;
+  }
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  
